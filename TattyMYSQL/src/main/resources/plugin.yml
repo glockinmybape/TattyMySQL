@@ -1,0 +1,14 @@
+name: TattyMYSQL
+version: '1.0'
+main: org.glockinmybape.tattymysql.TattyMYSQL
+authors: [ glockinmybape ]
+description: TattyMYSQL
+commands:
+  mysql:
+    aliases: [mysqladmin]
+
+  mysql status: {}
+permissions:
+  mMySQL.admin:
+    default: op
+    description: "Доступ к отображению статистики MySQL."

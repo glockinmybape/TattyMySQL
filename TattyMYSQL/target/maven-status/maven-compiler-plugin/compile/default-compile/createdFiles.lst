@@ -1,0 +1,6 @@
+org\glockinmybape\tattymysql\MySQL$ExecuteInvoker.class
+org\glockinmybape\tattymysql\Logger.class
+org\glockinmybape\tattymysql\MySQLCommand.class
+org\glockinmybape\tattymysql\TattyMYSQL.class
+org\glockinmybape\tattymysql\MySQL$QueryInvoker.class
+org\glockinmybape\tattymysql\MySQL.class
